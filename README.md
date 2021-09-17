@@ -1,1 +1,1 @@
-# 用Paddle复现Panoptic Feature Pyramid Networks论文
+# 用Paddle复现R-Drop: Regularized Dropout for Neural Networks论文
